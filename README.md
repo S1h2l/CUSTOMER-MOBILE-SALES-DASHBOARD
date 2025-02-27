@@ -33,7 +33,7 @@ This repository contains a **Customer Mobile Sales Dashboard** built in **Power 
 4. Explore the interactive dashboard and gain insights.
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot]
+![Dashboard Screenshot](https://github.com/S1h2l/CUSTOMER-MOBILE-SALES-DASHBOARD/blob/main/Screenshot%202025-02-27%20162716.png)
 
 
 ## 🛠️ Technologies Used
